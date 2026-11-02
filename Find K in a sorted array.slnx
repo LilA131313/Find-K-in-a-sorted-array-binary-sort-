@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Find K in a sorted array/Find K in a sorted array.vcxproj" />
+</Solution>
